@@ -1,0 +1,1 @@
+javascript:(function(){var iframe = document.createElement('iframe');iframe.style.width='50%';iframe.style.height='50%';iframe.style.resize='both';iframe.style.top='0';iframe.style.left='0';iframe.style.position = "fixed";iframe.style.zIndex="999999";iframe.src='https://sandsaga.com';document.body.appendChild(iframe);})()
